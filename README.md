@@ -8,3 +8,8 @@ Hibernate
 MySQL
 Maven
 Postman (for testing)
+
+Project Structure
+The main source code for the application can be found in the following directory:
+
+LibrarySystem/src/main/java/com/librarySystem/SpringBootCrud/springbootapi/
